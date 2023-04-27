@@ -1,0 +1,292 @@
+{
+    "dados": {
+        "pessoas_": [
+            {
+                "id": "01",
+                "nome": "Alan",
+                "genero": "M",
+                "idade": 30,
+                "UF": "SP",
+                "cidade": "São Paulo",
+                "Tempo na Internet(horas/dia)": 8,
+                "Apresentação de Ansiedade": "Sim",
+                "Apresentação de Irritabilidade": "Não"
+            },
+            {
+                "id": "02",
+                "nome": "Bernardo",
+                "genero": "M",
+                "idade": 40,
+                "UF": "RJ",
+                "cidade": "Rio de Janeiro",
+                "Tempo na Internet(horas/dia)": 8,
+                "Apresentação de Ansiedade": "Não",
+                "Apresentação de Irritabilidade": "Sim"
+            },
+            {
+                "id": "03",
+                "nome": "Carlos",
+                "genero": "M",
+                "idade": 26,
+                "UF": "BA",
+                "cidade": "Salvador",
+                "Tempo na Internet(horas/dia)": 8,
+                "Apresentação de Ansiedade": "Sim",
+                "Apresentação de Irritabilidade": "Sim"
+            },
+            {
+                "id": "04",
+                "nome": "Diogo",
+                "genero": "M",
+                "idade": 18,
+                "UF": "AM",
+                "cidade": "Manaus",
+                "Tempo na Internet(horas/dia)": 8,
+                "Apresentação de Ansiedade": "Não",
+                "Apresentação de Irritabilidade": "Não"
+            },
+            {
+                "id": "05",
+                "nome": "Eduarda",
+                "genero": "F",
+                "idade": 47,
+                "UF": "MG",
+                "cidade": "Belo Horizonte",
+                "Tempo na Internet(horas/dia)": 8,
+                "Apresentação de Ansiedade": "Sim",
+                "Apresentação de Irritabilidade": "Não"
+            },
+            {
+                "id": "06",
+                "nome": "Felipe",
+                "genero": "M",
+                "idade": 50,
+                "UF": "RJ",
+                "cidade": "Rio de Janeiro",
+                "Tempo na Internet(horas/dia)": 8,
+                "Apresentação de Ansiedade": "Não",
+                "Apresentação de Irritabilidade": "Sim"
+            },
+            {
+                "id": "07",
+                "nome": "Gabriela",
+                "genero": "F",
+                "idade": 20,
+                "UF": "SP",
+                "cidade": "São Paulo",
+                "Tempo na Internet(horas/dia)": 8,
+                "Apresentação de Ansiedade": "Sim",
+                "Apresentação de Irritabilidade": "Sim"
+            },
+            {
+                "id": "08",
+                "nome": "Helena",
+                "genero": "F",
+                "idade": 22,
+                "UF": "MS",
+                "cidade": "Campo Grande",
+                "Tempo na Internet(horas/dia)": 8,
+                "Apresentação de Ansiedade": "Não",
+                "Apresentação de Irritabilidade": "Não"
+            },
+            {
+                "id": "09",
+                "nome": "Ilana",
+                "genero": "F",
+                "idade": 43,
+                "UF": "SC",
+                "cidade": "Florianópolis",
+                "Tempo na Internet(horas/dia)": 8,
+                "Apresentação de Ansiedade": "Sim",
+                "Apresentação de Irritabilidade": "Não"
+            },
+            {
+                "id": "10",
+                "nome": "Juliana",
+                "genero": "F",
+                "idade": 34,
+                "UF": "AP",
+                "cidade": "Macapá",
+                "Tempo na Internet(horas/dia)": 8,
+                "Apresentação de Ansiedade": "Não",
+                "Apresentação de Irritabilidade": "Sim"
+            },
+            {
+                "id": "11",
+                "nome": "Karen",
+                "genero": "F",
+                "idade": 59,
+                "UF": "PR",
+                "cidade": "Curitiba",
+                "Tempo na Internet(horas/dia)": 8,
+                "Apresentação de Ansiedade": "Sim",
+                "Apresentação de Irritabilidade": "Sim"
+            },
+            {
+                "id": "12",
+                "nome": "Luciana",
+                "genero": "F",
+                "idade": 70,
+                "UF": "DF",
+                "cidade": "Brasília",
+                "Tempo na Internet(horas/dia)": 8,
+                "Apresentação de Ansiedade": "Não",
+                "Apresentação de Irritabilidade": "Não"
+            },
+            {
+                "id": "13",
+                "nome": "Maria",
+                "genero": "F",
+                "idade": 66,
+                "UF": "PE",
+                "cidade": "Recife",
+                "Tempo na Internet(horas/dia)": 8,
+                "Apresentação de Ansiedade": "Não",
+                "Apresentação de Irritabilidade": "Não"
+            },
+            {
+                "id": "14",
+                "nome": "Nilce",
+                "genero": "F",
+                "idade": 37,
+                "UF": "SP",
+                "cidade": "Andradina",
+                "Tempo na Internet(horas/dia)": 8,
+                "Apresentação de Ansiedade": "Sim",
+                "Apresentação de Irritabilidade": "Sim"
+            },
+            {
+                "id": "15",
+                "nome": "Orlando",
+                "genero": "M",
+                "idade": 42,
+                "UF": "SC",
+                "cidade": "Joinville",
+                "Tempo na Internet(horas/dia)": 8,
+                "Apresentação de Ansiedade": "Não",
+                "Apresentação de Irritabilidade": "Sim"
+            },
+            {
+                "id": "16",
+                "nome": "Paulo",
+                "genero": "M",
+                "idade": 56,
+                "UF": "RS",
+                "cidade": "Porto Alegre",
+                "Tempo na Internet(horas/dia)": 8,
+                "Apresentação de Ansiedade": "Sim",
+                "Apresentação de Irritabilidade": "Não"
+            },
+            {
+                "id": "17",
+                "nome": "Queiroz",
+                "genero": "M",
+                "idade": 44,
+                "UF": "RS",
+                "cidade": "Gramado",
+                "Tempo na Internet(horas/dia)": 8,
+                "Apresentação de Ansiedade": "Sim",
+                "Apresentação de Irritabilidade": "Não"
+            },
+            {
+                "id": "18",
+                "nome": "Rosa",
+                "genero": "F",
+                "idade": 26,
+                "UF": "CE",
+                "cidade": "Fortaleza",
+                "Tempo na Internet(horas/dia)": 8,
+                "Apresentação de Ansiedade": "Não",
+                "Apresentação de Irritabilidade": "Sim"
+            },
+            {
+                "id": "19",
+                "nome": "Sofia",
+                "genero": "F",
+                "idade": 39,
+                "UF": "RN",
+                "cidade": "Natal",
+                "Tempo na Internet(horas/dia)": 8,
+                "Apresentação de Ansiedade": "Sim",
+                "Apresentação de Irritabilidade": "Sim"
+            },
+            {
+                "id": "20",
+                "nome": "Thiago Gabriel",
+                "genero": "M",
+                "idade": 28,
+                "UF": "RJ",
+                "cidade": "Rio de Janeiro",
+                "Tempo na Internet(horas/dia)": 8,
+                "Apresentação de Ansiedade": "Não",
+                "Apresentação de Irritabilidade": "Não"
+            },
+            {
+                "id": "21",
+                "nome": "Úrsula",
+                "genero": "F",
+                "idade": 26,
+                "UF": "MG",
+                "cidade": "Uberlândia",
+                "Tempo na Internet(horas/dia)": 8,
+                "Apresentação de Ansiedade": "Sim",
+                "Apresentação de Irritabilidade": "Sim"
+            },
+            {
+                "id": "22",
+                "nome": "Vânia",
+                "genero": "F",
+                "idade": 40,
+                "UF": "SP",
+                "cidade": "Sorocaba",
+                "Tempo na Internet(horas/dia)": 8,
+                "Apresentação de Ansiedade": "Sim",
+                "Apresentação de Irritabilidade": "Não"
+            },
+            {
+                "id": "23",
+                "nome": "Wendel",
+                "genero": "M",
+                "idade": 41,
+                "UF": "SP",
+                "cidade": "São Paulo",
+                "Tempo na Internet(horas/dia)": 8,
+                "Apresentação de Ansiedade": "Não",
+                "Apresentação de Irritabilidade": "Sim"
+            },
+            {
+                "id": "24",
+                "nome": "Xuxa",
+                "genero": "F",
+                "idade": 30,
+                "UF": "PB",
+                "cidade": "João Pessoa",
+                "Tempo na Internet(horas/dia)": 8,
+                "Apresentação de Ansiedade": "Não",
+                "Apresentação de Irritabilidade": "Não"
+            },
+            {
+                "id": "25",
+                "nome": "Yasmin",
+                "genero": "F",
+                "idade": 18,
+                "UF": "TO",
+                "cidade": "Palmas",
+                "Tempo na Internet(horas/dia)": 8,
+                "Apresentação de Ansiedade": "Sim",
+                "Apresentação de Irritabilidade": "Sim"
+            },
+            {
+                "id": "26",
+                "nome": "Zeca",
+                "genero": "M",
+                "idade": 70,
+                "UF": "AC",
+                "cidade": "Rio Branco",
+                "Tempo na Internet(horas/dia)": 8,
+                "Apresentação de Ansiedade": "Sim",
+                "Apresentação de Irritabilidade": "Sim"
+            }
+        ]
+    }
+}
