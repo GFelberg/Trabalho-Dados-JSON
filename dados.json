@@ -2,7 +2,7 @@
     "dados": {
         "pessoas_": [
             {
-                "id": "1",
+                "id": 1,
                 "nome": "Alan",
                 "genero": "M",
                 "idade": 30,
@@ -13,7 +13,7 @@
                 "Apresentação de Irritabilidade": "Não"
             },
             {
-                "id": "2",
+                "id": 2,
                 "nome": "Bernardo",
                 "genero": "M",
                 "idade": 40,
@@ -24,7 +24,7 @@
                 "Apresentação de Irritabilidade": "Sim"
             },
             {
-                "id": "3",
+                "id": 3,
                 "nome": "Carlos",
                 "genero": "M",
                 "idade": 26,
@@ -35,7 +35,7 @@
                 "Apresentação de Irritabilidade": "Sim"
             },
             {
-                "id": "4",
+                "id": 4,
                 "nome": "Diogo",
                 "genero": "M",
                 "idade": 18,
@@ -46,7 +46,7 @@
                 "Apresentação de Irritabilidade": "Não"
             },
             {
-                "id": "5",
+                "id": 5,
                 "nome": "Eduarda",
                 "genero": "F",
                 "idade": 47,
@@ -57,7 +57,7 @@
                 "Apresentação de Irritabilidade": "Não"
             },
             {
-                "id": "6",
+                "id": 6,
                 "nome": "Felipe",
                 "genero": "M",
                 "idade": 50,
@@ -68,7 +68,7 @@
                 "Apresentação de Irritabilidade": "Sim"
             },
             {
-                "id": "7",
+                "id": 7,
                 "nome": "Gabriela",
                 "genero": "F",
                 "idade": 20,
@@ -79,7 +79,7 @@
                 "Apresentação de Irritabilidade": "Sim"
             },
             {
-                "id": "8",
+                "id": 8,
                 "nome": "Helena",
                 "genero": "F",
                 "idade": 22,
@@ -90,7 +90,7 @@
                 "Apresentação de Irritabilidade": "Não"
             },
             {
-                "id": "9",
+                "id": 9,
                 "nome": "Ilana",
                 "genero": "F",
                 "idade": 43,
@@ -101,7 +101,7 @@
                 "Apresentação de Irritabilidade": "Não"
             },
             {
-                "id": "10",
+                "id": 10,
                 "nome": "Juliana",
                 "genero": "F",
                 "idade": 34,
@@ -112,7 +112,7 @@
                 "Apresentação de Irritabilidade": "Sim"
             },
             {
-                "id": "11",
+                "id": 11,
                 "nome": "Karen",
                 "genero": "F",
                 "idade": 59,
@@ -123,7 +123,7 @@
                 "Apresentação de Irritabilidade": "Sim"
             },
             {
-                "id": "12",
+                "id": 12,
                 "nome": "Luciana",
                 "genero": "F",
                 "idade": 70,
@@ -134,7 +134,7 @@
                 "Apresentação de Irritabilidade": "Não"
             },
             {
-                "id": "13",
+                "id": 13,
                 "nome": "Maria",
                 "genero": "F",
                 "idade": 66,
@@ -145,7 +145,7 @@
                 "Apresentação de Irritabilidade": "Não"
             },
             {
-                "id": "14",
+                "id": 14,
                 "nome": "Nilce",
                 "genero": "F",
                 "idade": 37,
@@ -156,7 +156,7 @@
                 "Apresentação de Irritabilidade": "Sim"
             },
             {
-                "id": "15",
+                "id": 15,
                 "nome": "Orlando",
                 "genero": "M",
                 "idade": 42,
@@ -167,7 +167,7 @@
                 "Apresentação de Irritabilidade": "Sim"
             },
             {
-                "id": "16",
+                "id": 16,
                 "nome": "Paulo",
                 "genero": "M",
                 "idade": 56,
@@ -178,7 +178,7 @@
                 "Apresentação de Irritabilidade": "Não"
             },
             {
-                "id": "17",
+                "id": 17,
                 "nome": "Queiroz",
                 "genero": "M",
                 "idade": 44,
@@ -189,7 +189,7 @@
                 "Apresentação de Irritabilidade": "Não"
             },
             {
-                "id": "18",
+                "id": 18,
                 "nome": "Rosa",
                 "genero": "F",
                 "idade": 26,
@@ -200,7 +200,7 @@
                 "Apresentação de Irritabilidade": "Sim"
             },
             {
-                "id": "19",
+                "id": 19,
                 "nome": "Sofia",
                 "genero": "F",
                 "idade": 39,
@@ -211,7 +211,7 @@
                 "Apresentação de Irritabilidade": "Sim"
             },
             {
-                "id": "20",
+                "id": 20,
                 "nome": "Thiago Gabriel",
                 "genero": "M",
                 "idade": 28,
@@ -222,7 +222,7 @@
                 "Apresentação de Irritabilidade": "Não"
             },
             {
-                "id": "21",
+                "id": 21,
                 "nome": "Úrsula",
                 "genero": "F",
                 "idade": 26,
@@ -233,7 +233,7 @@
                 "Apresentação de Irritabilidade": "Sim"
             },
             {
-                "id": "22",
+                "id": 22,
                 "nome": "Vânia",
                 "genero": "F",
                 "idade": 40,
@@ -244,7 +244,7 @@
                 "Apresentação de Irritabilidade": "Não"
             },
             {
-                "id": "23",
+                "id": 23,
                 "nome": "Wendel",
                 "genero": "M",
                 "idade": 41,
@@ -255,7 +255,7 @@
                 "Apresentação de Irritabilidade": "Sim"
             },
             {
-                "id": "24",
+                "id": 24,
                 "nome": "Xuxa",
                 "genero": "F",
                 "idade": 30,
@@ -266,7 +266,7 @@
                 "Apresentação de Irritabilidade": "Não"
             },
             {
-                "id": "25",
+                "id": 25,
                 "nome": "Yasmin",
                 "genero": "F",
                 "idade": 18,
@@ -277,7 +277,7 @@
                 "Apresentação de Irritabilidade": "Sim"
             },
             {
-                "id": "26",
+                "id": 26,
                 "nome": "Zeca",
                 "genero": "M",
                 "idade": 70,
