@@ -6,7 +6,7 @@
         "idade": 30,
         "UF": "SP",
         "cidade": "São Paulo",
-        "tempo_na_internet_horas_por_dia": 8,
+        "tempo_na_internet_horas_por_dia": 5,
         "apresentacao_de_ansiedade": "Sim",
         "apresentacao_de_irritabilidade": "Não"
     },
@@ -17,7 +17,7 @@
         "idade": 40,
         "UF": "RJ",
         "cidade": "Rio de Janeiro",
-        "tempo_na_internet_horas_por_dia": 8,
+        "tempo_na_internet_horas_por_dia": 7,
         "apresentacao_de_ansiedade": "Não",
         "apresentacao_de_irritabilidade": "Sim"
     },
@@ -28,7 +28,7 @@
         "idade": 26,
         "UF": "BA",
         "cidade": "Salvador",
-        "tempo_na_internet_horas_por_dia": 8,
+        "tempo_na_internet_horas_por_dia": 2,
         "apresentacao_de_ansiedade": "Sim",
         "apresentacao_de_irritabilidade": "Sim"
     },
@@ -39,7 +39,7 @@
         "idade": 18,
         "UF": "AM",
         "cidade": "Manaus",
-        "tempo_na_internet_horas_por_dia": 8,
+        "tempo_na_internet_horas_por_dia": 4,
         "apresentacao_de_ansiedade": "Não",
         "apresentacao_de_irritabilidade": "Não"
     },
@@ -50,7 +50,7 @@
         "idade": 47,
         "UF": "MG",
         "cidade": "Belo Horizonte",
-        "tempo_na_internet_horas_por_dia": 8,
+        "tempo_na_internet_horas_por_dia": 7,
         "apresentacao_de_ansiedade": "Sim",
         "apresentacao_de_irritabilidade": "Não"
     },
@@ -61,7 +61,7 @@
         "idade": 50,
         "UF": "RJ",
         "cidade": "Rio de Janeiro",
-        "tempo_na_internet_horas_por_dia": 8,
+        "tempo_na_internet_horas_por_dia": 9,
         "apresentacao_de_ansiedade": "Não",
         "apresentacao_de_irritabilidade": "Sim"
     },
@@ -72,7 +72,7 @@
         "idade": 20,
         "UF": "SP",
         "cidade": "São Paulo",
-        "tempo_na_internet_horas_por_dia": 8,
+        "tempo_na_internet_horas_por_dia": 10,
         "apresentacao_de_ansiedade": "Sim",
         "apresentacao_de_irritabilidade": "Sim"
     },
@@ -83,7 +83,7 @@
         "idade": 22,
         "UF": "MS",
         "cidade": "Campo Grande",
-        "tempo_na_internet_horas_por_dia": 8,
+        "tempo_na_internet_horas_por_dia": 1,
         "apresentacao_de_ansiedade": "Não",
         "apresentacao_de_irritabilidade": "Não"
     },
@@ -94,7 +94,7 @@
         "idade": 43,
         "UF": "SC",
         "cidade": "Florianópolis",
-        "tempo_na_internet_horas_por_dia": 8,
+        "tempo_na_internet_horas_por_dia": 5,
         "apresentacao_de_ansiedade": "Sim",
         "apresentacao_de_irritabilidade": "Não"
     },
@@ -105,7 +105,7 @@
         "idade": 34,
         "UF": "AP",
         "cidade": "Macapá",
-        "tempo_na_internet_horas_por_dia": 8,
+        "tempo_na_internet_horas_por_dia": 6,
         "apresentacao_de_ansiedade": "Não",
         "apresentacao_de_irritabilidade": "Sim"
     },
@@ -127,7 +127,7 @@
         "idade": 70,
         "UF": "DF",
         "cidade": "Brasília",
-        "tempo_na_internet_horas_por_dia": 8,
+        "tempo_na_internet_horas_por_dia": 12,
         "apresentacao_de_ansiedade": "Não",
         "apresentacao_de_irritabilidade": "Não"
     },
@@ -138,7 +138,7 @@
         "idade": 66,
         "UF": "PE",
         "cidade": "Recife",
-        "tempo_na_internet_horas_por_dia": 8,
+        "tempo_na_internet_horas_por_dia": 6,
         "apresentacao_de_ansiedade": "Não",
         "apresentacao_de_irritabilidade": "Não"
     },
@@ -149,7 +149,7 @@
         "idade": 37,
         "UF": "SP",
         "cidade": "Andradina",
-        "tempo_na_internet_horas_por_dia": 8,
+        "tempo_na_internet_horas_por_dia": 9,
         "apresentacao_de_ansiedade": "Sim",
         "apresentacao_de_irritabilidade": "Sim"
     },
@@ -160,7 +160,7 @@
         "idade": 42,
         "UF": "SC",
         "cidade": "Joinville",
-        "tempo_na_internet_horas_por_dia": 8,
+        "tempo_na_internet_horas_por_dia": 3,
         "apresentacao_de_ansiedade": "Não",
         "apresentacao_de_irritabilidade": "Sim"
     },
@@ -171,7 +171,7 @@
         "idade": 56,
         "UF": "RS",
         "cidade": "Porto Alegre",
-        "tempo_na_internet_horas_por_dia": 8,
+        "tempo_na_internet_horas_por_dia":  5,
         "apresentacao_de_ansiedade": "Sim",
         "apresentacao_de_irritabilidade": "Não"
     },
@@ -182,7 +182,7 @@
         "idade": 44,
         "UF": "RS",
         "cidade": "Gramado",
-        "tempo_na_internet_horas_por_dia": 8,
+        "tempo_na_internet_horas_por_dia": 1,
         "apresentacao_de_ansiedade": "Sim",
         "apresentacao_de_irritabilidade": "Não"
     },
@@ -193,7 +193,7 @@
         "idade": 26,
         "UF": "CE",
         "cidade": "Fortaleza",
-        "tempo_na_internet_horas_por_dia": 8,
+        "tempo_na_internet_horas_por_dia": 2,
         "apresentacao_de_ansiedade": "Não",
         "apresentacao_de_irritabilidade": "Sim"
     },
@@ -215,7 +215,7 @@
         "idade": 28,
         "UF": "RJ",
         "cidade": "Rio de Janeiro",
-        "tempo_na_internet_horas_por_dia": 8,
+        "tempo_na_internet_horas_por_dia": 6,
         "apresentacao_de_ansiedade": "Não",
         "apresentacao_de_irritabilidade": "Não"
     },
@@ -226,7 +226,7 @@
         "idade": 26,
         "UF": "MG",
         "cidade": "Uberlândia",
-        "tempo_na_internet_horas_por_dia": 8,
+        "tempo_na_internet_horas_por_dia": 4,
         "apresentacao_de_ansiedade": "Sim",
         "apresentacao_de_irritabilidade": "Sim"
     },
@@ -237,7 +237,7 @@
         "idade": 40,
         "UF": "SP",
         "cidade": "Sorocaba",
-        "tempo_na_internet_horas_por_dia": 8,
+        "tempo_na_internet_horas_por_dia": 3,
         "apresentacao_de_ansiedade": "Sim",
         "apresentacao_de_irritabilidade": "Não"
     },
@@ -248,7 +248,7 @@
         "idade": 41,
         "UF": "SP",
         "cidade": "São Paulo",
-        "tempo_na_internet_horas_por_dia": 8,
+        "tempo_na_internet_horas_por_dia": 7,
         "apresentacao_de_ansiedade": "Não",
         "apresentacao_de_irritabilidade": "Sim"
     },
@@ -259,7 +259,7 @@
         "idade": 30,
         "UF": "PB",
         "cidade": "João Pessoa",
-        "tempo_na_internet_horas_por_dia": 8,
+        "tempo_na_internet_horas_por_dia": 10,
         "apresentacao_de_ansiedade": "Não",
         "apresentacao_de_irritabilidade": "Não"
     },
@@ -270,7 +270,7 @@
         "idade": 18,
         "UF": "TO",
         "cidade": "Palmas",
-        "tempo_na_internet_horas_por_dia": 8,
+        "tempo_na_internet_horas_por_dia": 4,
         "apresentacao_de_ansiedade": "Sim",
         "apresentacao_de_irritabilidade": "Sim"
     },
@@ -281,7 +281,7 @@
         "idade": 70,
         "UF": "AC",
         "cidade": "Rio Branco",
-        "tempo_na_internet_horas_por_dia": 8,
+        "tempo_na_internet_horas_por_dia": 5,
         "apresentacao_de_ansiedade": "Sim",
         "apresentacao_de_irritabilidade": "Sim"
     }
